@@ -2,6 +2,10 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+/**
+*
+*M.E.Bhararth Chandra Goud
+*/
 class Products extends CI_Controller {
 
     /**
